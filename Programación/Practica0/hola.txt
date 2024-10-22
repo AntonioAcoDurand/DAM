@@ -1,0 +1,7 @@
+Hola, qué tal estás?
+Pues no sé cerrar vim
+
+Voy a poner varias líneas para verlo mejor
+(aaaaaaaaa)
+aaaaaaaaaaa
+aaaaaaaaaaa

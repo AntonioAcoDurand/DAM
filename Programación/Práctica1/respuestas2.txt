@@ -1,0 +1,7 @@
+-Al sumar 2 en formato entero sale 98 y en formato hexa sale b
+-Al sumar 28 en formato entero sale 125 y en formato hexa sale }
+Basicamente los resultados salen en formato entero si se imprime el resultado con %i\%d y en formato hexadecimal si se usa %c.
+MAs ejemplos:
+  99 - c Si se suma 3
+  109 - m   Si se suma 12
+Estos son algunos ejemplos
